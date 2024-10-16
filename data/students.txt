@@ -1,0 +1,10 @@
+Name,Class,RollNo,Marks
+Mohan,IX,348,97.3
+Ajay,X,234,98.5
+Rakesh,X,562,95.7
+Venkatesh,IX,782,96.3
+Sudheer,X,574,98.3
+Chethan,IX,278,97.6
+Ramesh,IX,492,98.1
+Girish,X,456,96
+Kishore,X,479,97.5
